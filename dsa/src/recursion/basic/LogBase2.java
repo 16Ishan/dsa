@@ -1,4 +1,4 @@
-package recursion.advance;
+package recursion.basic;
 
 public class LogBase2
 {
